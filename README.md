@@ -8,7 +8,7 @@ Assesmen PT. Gencidev Prisma Teknologi.
 Pastikan sudah terpasang di komputer Anda:
 - **PHP** >= 8.2  
 - **Composer**  
-- **MySQL / PostgreSQL** (sesuai konfigurasi)  
+- **MySQL 
 - **Laravel 12**  
 - **Postman**  
 
@@ -34,7 +34,7 @@ Pastikan sudah terpasang di komputer Anda:
      DB_CONNECTION=mysql
      DB_HOST=127.0.0.1
      DB_PORT=3306
-     DB_DATABASE=notes_db
+     DB_DATABASE=notes_gencidev
      DB_USERNAME=root
      DB_PASSWORD=
      ```
