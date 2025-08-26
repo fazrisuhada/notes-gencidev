@@ -1,7 +1,6 @@
 # 📝 Notes API - Backend Laravel 12
 
-Project ini adalah backend sederhana berbasis **Laravel 12** untuk manajemen catatan (Notes API).  
-Dokumentasi ini menjelaskan cara menjalankan project di lokal serta cara menguji API menggunakan **Postman**.
+Assesmen PT. Gencidev Prisma Teknologi.
 
 ---
 
